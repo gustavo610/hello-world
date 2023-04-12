@@ -12,4 +12,5 @@ Atividade 01 Tópicos Especiais
 >
 4.Alterar um arquivo e fazer commit dessas alterações para GitHub
 >
-5.Abrir e fazer o merge de um pull request
+5.Abrir e fazer o merge de um pull 
+>
